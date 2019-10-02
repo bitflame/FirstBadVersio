@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\FirstBadVersio\FirstBadVersio\bin\Debug\FirstBadVersio.exe.config
+C:\Users\usr\source\repos\FirstBadVersio\FirstBadVersio\bin\Debug\FirstBadVersio.exe
+C:\Users\usr\source\repos\FirstBadVersio\FirstBadVersio\bin\Debug\FirstBadVersio.pdb
+C:\Users\usr\source\repos\FirstBadVersio\FirstBadVersio\obj\Debug\FirstBadVersio.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\FirstBadVersio\FirstBadVersio\obj\Debug\FirstBadVersio.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\FirstBadVersio\FirstBadVersio\obj\Debug\FirstBadVersio.exe
+C:\Users\usr\source\repos\FirstBadVersio\FirstBadVersio\obj\Debug\FirstBadVersio.pdb
